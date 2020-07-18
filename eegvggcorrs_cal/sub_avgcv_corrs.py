@@ -15,7 +15,7 @@ corrs = np.zeros([6, 11, 851], dtype=np.float)
 # trained
 
 for sub in range(6):
-    subcorrs = np.loadtxt("corrs/trained/erp_po/sub" + str(sub+1) +".txt")[:, 0]
+    subcorrs = np.loadtxt("corrs/trained/erp_fp/sub" + str(sub+1) +".txt")[:, 0]
     subcorrs = np.reshape(subcorrs, [11, 851])
     corrs[sub] = subcorrs
 
@@ -31,8 +31,8 @@ for sub in range(6):
         avg = np.average(corrs[sub, :8, t])
         cv[sub, t] = sd/avg
 
-np.savetxt("avg_corrs/convs/trained/erp_po.txt", avg_corrs)
-np.savetxt("corrs_cv/convs/trained/erp_po.txt", cv)
+np.savetxt("avg_corrs/convs/trained/erp_fp.txt", avg_corrs)
+np.savetxt("corrs_cv/convs/trained/erp_fp.txt", cv)
 
 # fcs
 
@@ -46,13 +46,13 @@ for sub in range(6):
         avg = np.average(corrs[sub, 8:, t])
         cv[sub, t] = sd/avg
 
-np.savetxt("avg_corrs/fcs/trained/erp_po.txt", avg_corrs)
-np.savetxt("corrs_cv/fcs/trained/erp_po.txt", cv)
+np.savetxt("avg_corrs/fcs/trained/erp_fp.txt", avg_corrs)
+np.savetxt("corrs_cv/fcs/trained/erp_fp.txt", cv)
 
 # untrained
 
 for sub in range(6):
-    subcorrs = np.loadtxt("corrs/untrained/erp_po/sub" + str(sub+1) +".txt")[:, 0]
+    subcorrs = np.loadtxt("corrs/untrained/erp_fp/sub" + str(sub+1) +".txt")[:, 0]
     subcorrs = np.reshape(subcorrs, [11, 851])
     corrs[sub] = subcorrs
 
@@ -68,8 +68,8 @@ for sub in range(6):
         avg = np.average(corrs[sub, :8, t])
         cv[sub, t] = sd/avg
 
-np.savetxt("avg_corrs/convs/untrained/erp_po.txt", avg_corrs)
-np.savetxt("corrs_cv/convs/untrained/erp_po.txt", cv)
+np.savetxt("avg_corrs/convs/untrained/erp_fp.txt", avg_corrs)
+np.savetxt("corrs_cv/convs/untrained/erp_fp.txt", cv)
 
 # fcs
 
@@ -83,5 +83,5 @@ for sub in range(6):
         avg = np.average(corrs[sub, 8:, t])
         cv[sub, t] = sd/avg
 
-np.savetxt("avg_corrs/fcs/untrained/erp_po.txt", avg_corrs)
-np.savetxt("corrs_cv/fcs/untrained/erp_po.txt", cv)
+np.savetxt("avg_corrs/fcs/untrained/erp_fp.txt", avg_corrs)
+np.savetxt("corrs_cv/fcs/untrained/erp_fp.txt", cv)

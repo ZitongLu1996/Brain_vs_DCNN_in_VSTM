@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edcd2786-7236-4ed1-ab97-1b3aa5a95d38" name="Default Changelist" comment="" />
+    <list default="true" id="edcd2786-7236-4ed1-ab97-1b3aa5a95d38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/trained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/convs/untrained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/trained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs/fcs/untrained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/trained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/convs/untrained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/trained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/alpha_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/alpha_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/alpha_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/alpha_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/erp_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/erp_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/erp_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/erp_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/theta_power_fp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/theta_power_fp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/theta_power_po.txt" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/corrs_cv/fcs/untrained/theta_power_po.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot/plot_avg_corrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot/plot_avg_corrs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_t.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py" beforeDir="false" afterPath="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,40 +63,113 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/newcodes$plot_avg_corrs.coverage" NAME="plot_avg_corrs Coverage Results" MODIFIED="1594138420175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_layercorrs_curve.coverage" NAME="plot_layercorrs_curve Coverage Results" MODIFIED="1594809995244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_eegrdmscorrs.coverage" NAME="plot_eegrdmscorrs Coverage Results" MODIFIED="1594997585653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$sub_avgcv_corrs.coverage" NAME="sub_avgcv_corrs Coverage Results" MODIFIED="1594998532342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/eegvggcorrs_cal" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_avg_corrs_trained_untrained.coverage" NAME="plot_avg_corrs_trained-untrained Coverage Results" MODIFIED="1594997878824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_avg_corrs.coverage" NAME="plot_avg_corrs Coverage Results" MODIFIED="1594999207075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_eegvggcorrs_stats_t.coverage" NAME="plot_eegvggcorrs_stats_t Coverage Results" MODIFIED="1594997511254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
+    <SUITE FILE_PATH="coverage/newcodes$plot_eegvggcorrs_stats_trained_vs_untrained.coverage" NAME="plot_eegvggcorrs_stats_trained_vs_untrained Coverage Results" MODIFIED="1594997562614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plot/plot_avg_corrs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="101" column="95" selection-start-line="101" selection-start-column="95" selection-end-line="101" selection-end-column="95" />
+            <state relative-caret-position="1095">
+              <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eegvggcorrs_cal/sub_corrs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1523" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/plot_avg_corrs_trained-untrained.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_t.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/plot_eegrdmscorrs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-143">
+              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot/plot_layercorrs_curve.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_t.py" />
+        <option value="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py" />
+        <option value="$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py" />
         <option value="$PROJECT_DIR$/plot/plot_avg_corrs.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="52" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="24" />
     <option name="y" value="23" />
     <option name="width" value="1228" />
     <option name="height" value="777" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -53,12 +180,18 @@
             <path>
               <item name="newcodes" type="b2602c69:ProjectViewProjectNode" />
               <item name="newcodes" type="462c0819:PsiDirectoryNode" />
+              <item name="eegvggcorrs_cal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newcodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newcodes" type="462c0819:PsiDirectoryNode" />
               <item name="plot" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -80,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.plot_avg_corrs">
     <configuration name="plot_avg_corrs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="newcodes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,9 +236,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="plot_avg_corrs_trained-untrained" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot/plot_avg_corrs_trained-untrained.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_eegrdmscorrs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot/plot_eegrdmscorrs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plot_eegvggcorrs_stats_trained_vs_untrained" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sub_avgcv_corrs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="newcodes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/eegvggcorrs_cal" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.plot_avg_corrs" />
+        <item itemvalue="Python.sub_avgcv_corrs" />
+        <item itemvalue="Python.plot_avg_corrs_trained-untrained" />
+        <item itemvalue="Python.plot_eegrdmscorrs" />
+        <item itemvalue="Python.plot_eegvggcorrs_stats_trained_vs_untrained" />
       </list>
     </recent_temporary>
   </component>
@@ -121,17 +346,21 @@
       <updated>1594137154374</updated>
       <workItem from="1594137155847" duration="216000" />
       <workItem from="1594137574510" duration="1588000" />
+      <workItem from="1594651694687" duration="2000" />
+      <workItem from="1594713508180" duration="480000" />
+      <workItem from="1594781465249" duration="1477000" />
+      <workItem from="1594996834725" duration="2809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1804000" />
+    <option name="totallyTimeSpent" value="6572000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="23" width="1228" height="777" extended-state="1" />
+    <frame x="24" y="23" width="1228" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379425" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27065766" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -158,10 +387,64 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/plot/plot_layercorrs_curve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/plot_eegvggcorrs_stats_trained_vs_untrained.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/plot_eegrdmscorrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eegvggcorrs_cal/sub_corrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eegvggcorrs_cal/avg_corrs_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot/plot_avg_corrs_trained-untrained.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eegvggcorrs_cal/sub_avgcv_corrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plot/plot_avg_corrs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="101" column="95" selection-start-line="101" selection-start-column="95" selection-end-line="101" selection-end-column="95" />
+        <state relative-caret-position="1095">
+          <caret line="75" column="38" lean-forward="true" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
         </state>
       </provider>
     </entry>

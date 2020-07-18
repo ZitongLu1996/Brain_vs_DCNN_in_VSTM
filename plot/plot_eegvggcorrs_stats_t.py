@@ -15,13 +15,23 @@ from scipy import signal
 
 from neurora.rsa_plot import plot_stats_hotmap
 
-stats = np.loadtxt("/Users/zitonglu/Desktop/Neuro_Computation/new_codes/eegvggcorrs_cal/stats_results/trained/theta_power_fp.txt")
+stats = np.loadtxt("/Users/zitonglu/Desktop/Neuro_Computation/newcodes/eegvggcorrs_cal/stats_results/trained/theta_power_fp.txt")
 stats = np.reshape(stats, [11, 851, 2])
 t = stats[:, 113:, 0]
 
 
 p = stats[:, 113:, 1]
 
+
+"""for i in range(11):
+    for j in range(738):
+        if p[i, j] >= 0.05:
+            p[i, j] = 0
+        else:
+            if t[i, j] > 0:
+                p[i, j] = 1
+            if t[i, j] < 0:
+                p[i, j] = -1"""
 
 for i in range(11):
     for j in range(738):
@@ -31,7 +41,7 @@ for i in range(11):
             if t[i, j] > 0:
                 p[i, j] = 1
             if t[i, j] < 0:
-                p[i, j] = -1
+                p[i, j] = 0
 
 for i in range(11):
     pid = set(())
@@ -68,7 +78,7 @@ X, Y = np.meshgrid(x, y)
 plt.contour(X, Y, newp, (-0.5, 0.5), cmap="bwr", linewidths=3)
 
 fig = plt.gcf()
-fig.set_size_inches(8, 4)
+fig.set_size_inches(6, 3)
 plt.imshow(t, extent=(0, 2.952, 0, 1.76), clim=(-6, 6), origin='low', cmap="bwr")
 
 cb = plt.colorbar(ticks=[-5, 0, 5])

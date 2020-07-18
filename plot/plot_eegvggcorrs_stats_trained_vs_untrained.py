@@ -10,7 +10,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-stats = np.loadtxt("/Users/zitonglu/Desktop/Neuro_Computation/new_codes/eegvggcorrs_cal/stats_results/trained-untrained/alpha_power_po.txt")
+stats = np.loadtxt("/Users/zitonglu/Desktop/Neuro_Computation/newcodes/eegvggcorrs_cal/stats_results/trained-untrained/alpha_power_po.txt")
 stats = np.reshape(stats, [11, 851, 2])
 t = stats[:, 113:, 0]
 
